@@ -1,4 +1,27 @@
-### Hi there <a href="https://www.shawnbigbie.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+### Hi there I'm Shawn, <a href="https://www.shawnbigbie.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Shawn's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/shawnbigbie">
+  <img align="left" alt="Shawn Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shawn-bigbie-03735a133/">
+  <img align="left" alt="Shawn's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/shawnbigbie/">
+  <img align="left" alt="Shawn's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/shawnbigbie">
+  <img align="left" alt="Shawn's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=shawnbigbie.shawnbigbie)
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working as a Freelance Web Developer and Designer!
@@ -15,10 +38,9 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-<!-- BLOG-POST-LIST:END -->
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shawnbigbie&show_icons=true&theme=default" alt="Shawn Bigbie Stats" />
+
+</details>
