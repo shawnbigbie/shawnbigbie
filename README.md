@@ -36,7 +36,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 📊 **This week I spent my time on**
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawnbigbie)](https://github.com/shawnbigbie/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shawnbigbie)](https://github.com/Shawnbigbie/github-readme-stats)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
