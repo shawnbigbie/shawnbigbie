@@ -30,17 +30,4 @@ This is the place where I opensource stuff and break things :rofl:
 - 📫 How to reach me: Shawnbigbie@outlook.com
 - ⚡ Fun fact: I once answered the world’s oldest question with a single line of JavaScript
 
-Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
->>> ["🐔", "🐣", "🐥", "🥚"];
-
-📊 **This week I spent my time on**
-
-[![Shawn Bigbie's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Shawnbigbie&hide_title=true&hide_border=true&langs_count=5)](https://github.com/shawnbigbie/github-readme-stats)
-
-<details>
-<summary>📈 My GitHub Stats</summary>
-
-![Shawn Bigbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnbigbie&show_icons=true&theme=default)
-
 </details>
